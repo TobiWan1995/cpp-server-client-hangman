@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winSocket_Client", "winSocket_Client\winSocket_Client.vcxproj", "{EABBCC80-319E-4531-95DF-B08AE00FA459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Debug|x64.ActiveCfg = Debug|x64
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Debug|x64.Build.0 = Debug|x64
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Debug|x86.ActiveCfg = Debug|Win32
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Debug|x86.Build.0 = Debug|Win32
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Release|x64.ActiveCfg = Release|x64
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Release|x64.Build.0 = Release|x64
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Release|x86.ActiveCfg = Release|Win32
+		{EABBCC80-319E-4531-95DF-B08AE00FA459}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D01F06A4-7079-44FB-80B3-CE792FAB299F}
+	EndGlobalSection
+EndGlobal
